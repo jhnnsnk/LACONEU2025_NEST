@@ -28,10 +28,11 @@ If this does not work, contact the presenter and ask for a guest account.
 1. Sign in with your EBRAINS account.
 1. Select `NEST` as simulation tool.
 1. In the `Frontend` section on the right, you can either load an existing project or start a new one. If you want to load the project prepared in this repository, click on the `Import` icon next to `Store list`.
-1. Choose `Import from URL
-1. Go to`PROJECTS -> Import Projects -> URL` and paste the link to the `Raw` version of `1_NESTDesktop2PyNEST/balanced_network.json`.  
-   (for convenience: https://raw.githubusercontent.com/jhnnsnk/LACONEU2025_NEST/main/1_NESTDesktop2PyNEST/balanced_network.json)  
-   Press enter, select the file and `IMPORT`.
+1. Choose `Import from URL` and paste the link to the `Raw` version of `1_NESTDesktop2PyNEST/balanced_network.json`.  
+   (for convenience: https://raw.githubusercontent.com/jhnnsnk/LACONEU2025_NEST/refs/heads/main/1_NESTDesktop2PyNEST/balanced_network.json)  
+   Press `FETCH`, select the file `Balanced network`, and `IMPORT SELECTED`.
+1. Now the project `Balanced networks` appears under `Existing projects` and can be opened.
+1. 
 
 ### How NEST Desktop stores models
 
