@@ -49,9 +49,8 @@ If this does not work, contact the presenter and ask for a guest account.
 | --- |
 
 1. **Fork this repository**.
-1. Go to https://lab.ebrains.eu.
-1. Choose Germany (Fenix DE - Jülich Supercomputing Center (JSC)) or Switzerland (Fenix CH - Swiss National Supercomputing Center (CSCS).
-1. Remember which one you chose.
+1. Go to https://lab.ebrains.eu and sign in.
+1. Choose Jülich Supercomputing Center (JSC).
 1. Upon "Start Server", EBRAINS spins up a virtual machine (VM) for you with 2 GB RAM.
 1. You have a file browser to your left.
    - Top level is your **local home** on the VM. It exists as long as the VM.
