@@ -26,9 +26,11 @@ If this does not work, contact the presenter and ask for a guest account.
 
 1. Go to https://nest-desktop.apps.hbp.eu. The Chrome browser usually works best.
 1. Sign in with your EBRAINS account.
-1. Click `START A NEW PROJECT`.
-1. If you want to load the project prepared in this repository, go to`PROJECTS -> Import Projects -> URL` and paste the link to the `Raw` version of `1_NESTDesktop2PyNEST/balanced_network.json`.  
-   (for convenience: https://raw.githubusercontent.com/jhnnsnk/LACONEU_NEST/main/1_NESTDesktop2PyNEST/balanced_network.json)  
+1. Select `NEST` as simulation tool.
+1. In the `Frontend` section on the right, you can either load an existing project or start a new one. If you want to load the project prepared in this repository, click on the `Import` icon next to `Store list`.
+1. Choose `Import from URL
+1. Go to`PROJECTS -> Import Projects -> URL` and paste the link to the `Raw` version of `1_NESTDesktop2PyNEST/balanced_network.json`.  
+   (for convenience: https://raw.githubusercontent.com/jhnnsnk/LACONEU2025_NEST/main/1_NESTDesktop2PyNEST/balanced_network.json)  
    Press enter, select the file and `IMPORT`.
 
 ### How NEST Desktop stores models
