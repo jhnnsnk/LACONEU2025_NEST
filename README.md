@@ -55,7 +55,7 @@ If this does not work, contact the presenter and ask for a guest account.
 1. You have a file browser to your left.
    - Top level is your **local home** on the VM. It exists as long as the VM.
    - **Do not use** `shared` (contains long-term storage but needs a *Collab* and is not suitable for storing Git repos) or `drive` (deprecated).
-1. **Clone your fork** of the `LACONEU2025_NEST` repository under the "Git" logo in the left margin (use the HTTPS version: https://github.com/jhnnsnk/LACONEU2025_NEST.git ). There you also find tools for managing Git.
+1. **Clone your fork** of the `LACONEU2025_NEST` repository under the "Git" logo in the left margin (use the HTTPS version: https://github.com/jhnnsnk/LACONEU2025_NEST.git ). There you also find tools for managing Git. For pushing to your repository, you will need to set up an access token, see https://github.com/settings/tokens. 
 1. **Always commit and push at the end of a session.**
 1. EBRAINS will from time to time shut down inactive VMs. **Any material in your VM home directory will then be lost**—remember to push!
 1. You can shut down a server yourself via `File > Hub Control Panel`. The entire VM including your home on the VM is deleted then.
@@ -64,7 +64,4 @@ If this does not work, contact the presenter and ask for a guest account.
 
 If you remember on which site your VM is running, you can contact it directly:
 
-- https://lab.de.ebrains.eu
-- https://lab.ch.ebrains.eu
-
-Please **do not** create VMs on both sites simultaneously to avoid resource waste!
+- https://lab.jsc.ebrains.eu
