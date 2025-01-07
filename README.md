@@ -13,7 +13,7 @@ https://laconeu.cl
 
 **Simulated dynamics of spiking full-scale network models with NEST**
 
-Monday, 13 January.  
+10 & 13 January 2025.  
 Presented by Johanna Senk (j.senk@sussex.ac.uk).  
 This tutorial gives an introduction and demonstration into modeling of the dynamics and plasticity of spiking neuronal networks. The tutorial explains graphical as well as programmatic approaches on the basis of the simulation code NEST. We emphasize that full-scale models representing all the neurons and all the synapses of a circuit are within reach, removing the uncertainties of downscaling. Examples and exercises make use of the graphical user interface NEST Desktop and Jupyter notebooks for PyNEST code using the EBRAINS infrastructure.
 
